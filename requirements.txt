@@ -1,0 +1,11 @@
+# The scripts use np.trapezoid, introduced in NumPy 2.0.
+numpy>=2.0
+pandas>=2.2.2
+scipy>=1.13
+matplotlib>=3.9
+colour-science>=0.4.4
+# Notebook and Excel spreadsheet support.
+jupyterlab>=4.0
+openpyxl>=3.1
+# Optional alternative to the external ImageMagick GIF writer.
+Pillow>=10.0
